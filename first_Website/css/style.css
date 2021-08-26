@@ -1,0 +1,177 @@
+.conitaer{
+    width: 1400px;
+    height: 900px;
+    margin: 0 0 0 60px;
+    background-color: #cccccc;
+    border: 2px solid black;
+}
+.logo{
+  
+    background-color: black;
+    color: bisque;
+    width: 1400px;
+}
+.logo h1{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: center;
+    font-size: 55px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.listing{
+    background-color:#ff5000;
+}
+.listing ul{
+    margin: 0px;
+    text-align: center;
+    padding-right: 150px;
+}
+
+.listing ul li{
+    display: inline-block;
+    padding-left: 180px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.listing ul li a{
+    font-size: 18px;
+    text-decoration: none;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+  
+}
+.listing ul li a:hover {
+
+    background-color: yellow;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.sec1{
+   
+        width: 860px;
+        height: 180px;
+        background-color: #bfddeb;
+        margin-top: 30px;
+        margin-left: 30px;
+}
+.sec1 h3{
+        padding-top: 10px;
+        padding-bottom: 10px;
+       padding-left: 10px;
+        background-color: black;
+        color: #ffffff;
+        font-size: 22px;
+}
+.sec1 p{
+    padding: 10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+
+}
+.sec1 a{
+   padding-left: 10px;
+}
+/******sec2 *********/
+.sec2{
+   
+    width: 860px;
+    height: 180px;
+    background-color: #bfddeb;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.sec2 h3{
+    padding-top: 10px;
+    padding-bottom: 10px;
+   padding-left: 10px;
+    background-color: black;
+    color: #ffffff;
+    font-size: 22px;
+}
+.sec2 p{
+padding: 10px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+padding-bottom: 0px;
+margin-bottom: 0px;
+
+}
+.sec2 a{
+padding-left: 10px;
+}
+
+/*****sec3s**********/
+.sec3{
+   
+    width: 860px;
+    height: 180px;
+    background-color: #bfddeb;
+    margin-top: 30px;
+    margin-left: 30px;
+}
+.sec3 h3{
+    padding-top: 10px;
+    padding-bottom: 10px;
+   padding-left: 10px;
+    background-color: black;
+    color: #ffffff;
+    font-size: 22px;
+}
+.sec3 p{
+padding: 10px;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+padding-bottom: 0px;
+margin-bottom: 0px;
+
+}
+.sec3 a{
+padding-left: 10px;
+}
+article{
+float: left;}
+aside{
+    float: right;
+    
+
+}
+.last_posts h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+   text-align: center; 
+}
+.last_posts p{
+    padding: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center; 
+    background-color: black;
+    color: #ffffff;
+}
+.last_posts{
+    margin-right: 50px;
+    width: 400px;
+    height: 300px;
+    padding-right: 20px;
+}
+
+.new_seltter{
+    margin-top: 200px;
+    margin-right: 50px;
+    width: 400px;
+    height: 700px;
+    float: right;
+}
+.new_seltter h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center; 
+}
+.new_seltter input{
+    padding: 10px;
+    width: 350px;
+}
+.new_seltter p{
+    padding: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center; 
+    background-color: black;
+    color: #ffffff;
+}
